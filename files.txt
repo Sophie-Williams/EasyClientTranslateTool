@@ -1,0 +1,2 @@
+locale_game.txt
+locale_interface.txt
